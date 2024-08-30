@@ -50,6 +50,7 @@ Console.ForegroundColor = ConsoleColor.Red;
 Console.BackgroundColor =ConsoleColor.Black;
 Console.Clear();
 
+
 // Console.WriteLine("Hello, my name is " + name + " and i am " + age + " years old. I live in a place called " + city " and i love playing " + sport + ", but because i eat too much " + food + " i can't play it anymore.")
 Console.WriteLine($"Hello, my name is {name} and i am {age} years old. I live in a place called {city} and i love playing {sport}, but because i eat too much {food} i got injured and can't play it anymore.");
 
